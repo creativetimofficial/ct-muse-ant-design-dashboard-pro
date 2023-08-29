@@ -1,6 +1,6 @@
 # [Muse Ant Design Dashboard PRO](https://demos.creative-tim.com/muse-ant-design-dashboard-pro/#/dashboard?ref=readme-maddp)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-muse-ant-design-dashboard-pro.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-muse-ant-design-dashboard-pro/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/580/original/muse-ant-dashboard-pro-react.jpg)
 
@@ -110,7 +110,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-maddp)
+- Copyright 2023 [Creative Tim](https://www.creative-tim.com?ref=readme-maddp)
 - Creative Tim [license](https://www.creative-tim.com/license?ref=readme-maddp)
 
 ## Useful Links
