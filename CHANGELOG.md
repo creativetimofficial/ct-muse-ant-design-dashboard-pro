@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [1.1.0] 2023-08-29
+
+- Upgrade dependencies
+- Fix installation issue
+
 ## [1.0.0] 2022-02-07
 
 ### Original Release
